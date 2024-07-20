@@ -4,7 +4,7 @@ An extension to detect the email addresses from a website by using typescript.
 
 #### Reference blog:
 
-- [Chrome extension with Typescript](https://medium.com/@doublekien/chrome-extension-with-typescript-1589aa84e80)
+- [Chrome extension with Typescript](https://ai-research.dev/chrome-extension-with-typescript/)
 
 ### 1. Setup
 
